@@ -25,8 +25,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/burberry-clone.git
-cd burberry-clone
+git clone https://github.com/NityashreeM/Burberry-Clone.git
 
 Install dependencies:
 
@@ -41,14 +40,16 @@ Open your browser and visit http://localhost:3000
 Folder Structure
 
 Burberry-Clone/
+|── node modules
+│── public/
 │── src/
+|   ├── assets/
 │   ├── components/  
 │   ├── pages/       
-│   ├── assets/      
-│   ├── styles/     
-│   ├── utils/       
-│── public/
+│── db.json        
+│── package-lock.json       
 │── package.json
 │── README.md
 
 Images:
+<img src="./assets/image-name.png" alt="Alt Text" width="500">
